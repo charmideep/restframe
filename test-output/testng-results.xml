@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T23:34:42 EDT" name="Default suite" finished-at="2022-05-05T23:34:47 EDT" duration-ms="5588">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T23:34:42 EDT" name="Default test" finished-at="2022-05-05T23:34:47 EDT" duration-ms="5588">
+      <class name="testcase.Getrequest">
+        <test-method signature="deletema()[pri:0, instance:testcase.Getrequest@72a7c7e0]" started-at="2022-05-05T23:34:42 EDT" name="deletema" finished-at="2022-05-05T23:34:45 EDT" duration-ms="3309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletema -->
+        <test-method signature="getr()[pri:0, instance:testcase.Getrequest@72a7c7e0]" started-at="2022-05-05T23:34:45 EDT" name="getr" finished-at="2022-05-05T23:34:46 EDT" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getr -->
+        <test-method signature="postm1()[pri:0, instance:testcase.Getrequest@72a7c7e0]" started-at="2022-05-05T23:34:46 EDT" name="postm1" finished-at="2022-05-05T23:34:47 EDT" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postm1 -->
+        <test-method signature="update()[pri:0, instance:testcase.Getrequest@72a7c7e0]" started-at="2022-05-05T23:34:47 EDT" name="update" finished-at="2022-05-05T23:34:47 EDT" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+      </class> <!-- testcase.Getrequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
